@@ -4,11 +4,13 @@ Random class name generator for jQuery
 
 ###Install
 Download jQuery & jQuery Random Class
+
 	<script src="jquery.js"></script>
 	<script src="jquery-randomclass.js"></script>
 
 ###Example
 Basic usage
+
 	$('p:nth-of-type(3)').randomclass();
 
 	//produces
@@ -18,6 +20,7 @@ Basic usage
 
 ###Configuration
 Random Class supports the following options
+
 	$('p:nth-of-type(3)').randomclass({
 	    length:14
 	});
@@ -41,6 +44,7 @@ Random Class can also be used to generate random strings of a specified length
 
 ##AMD / RequireJS
 Random Class is also a valid AMD Module that works with RequireJS
+
 	requirejs.config({
 		paths: {
 			"randomclass" : "/path/to/jquery-randomclass"
