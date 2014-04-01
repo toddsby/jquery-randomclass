@@ -1,0 +1,37 @@
+{
+  "name": "randomclass",
+  "version": "1.0.0",
+  "title": "jQuery Random Class",
+  "description": "jQuery plugin for generating random class names",
+  "keywords": [
+    "jquery",
+    "random",
+    "class",
+    "generator",
+    "name",
+    "string",
+    "helper"
+  ],
+  "homepage": "https://github.com/toddsby/jquery-randomclass",
+  "author": {
+    "name": "Drew Toddsby",
+    "email": "toddsby@gmail.com",
+    "url": "http://doctype.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toddsby/jquery-randomclass.git"
+  },
+  "bugs": "https://github.com/toddsby/jquery-randomclass/issues",
+  "docs": "https://github.com/toddsby/jquery-randomclass/issues",
+  "download": "https://github.com/toddsby/jquery-randomclass",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/toddsby/jquery-randomclass/LICENSE"
+    }
+  ],
+  "dependencies": {
+      "jquery": ">=1.8.3"
+  }
+}
