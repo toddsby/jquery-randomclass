@@ -1,6 +1,6 @@
 {
   "name": "randomclass",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "title": "jQuery Random Class",
   "description": "jQuery plugin for generating random class names",
   "keywords": [
